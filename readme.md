@@ -36,3 +36,7 @@ These top matches are then injected into a custom prompt template alongside your
 
 ## Sample Output
 ![Sample AI Assistant Output](sample.png)
+
+---
+
+> **Note:** Due to compute limitations, the initial setup and sample outputs for this project were tested on only 2 videos from the "Chai aur Django" course by Hitesh Sir. You can scale this up by adding more videos if you have the necessary hardware!
